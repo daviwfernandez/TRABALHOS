@@ -112,7 +112,7 @@
 
   .logo {
     margin-left: 230px;
-    margin-right: 600px; /*distancia entre o logo e o login */
+    margin-right: 800px; /*distancia entre o logo e o login */
   }
   
   #menuToggle{ /*menu hamburguer position fora */
@@ -282,17 +282,37 @@ footer {
 .sec {
     background-color:#B59DB6;
     padding-top: 60px;
-    padding-bottom: 330px;
+    padding-bottom: 200px;
     
 }
 
 h1 {
     margin-top: 10px;
-    margin-left: 10px;
+    margin-left: 28px;
 }
 
-.icons {
-    margin-top: 10px;
+.icon2 {
+    margin-bottom: 100px;
+
+}
+
+.mapbox iframe {
+    width: 2000px;
+    height: 700px;
+    padding-left: 10px;
+    padding-top: 10px;
+
+}
+
+.mapbox {
+    margin-top: 100px;
+    margin-bottom: 10px;
+}
+
+  .icon2 {
+    margin-left: 10px;
+    margin-top: 1000px;
+    color:black;
   }
   
   .icon {
@@ -365,7 +385,8 @@ h1 {
     margin-top: 20px;
     color:black;
     margin-left: 20px;
-    
+    clear: both;
+    font-size: 17px;
 }
   
   .descricao h2, .politica h2 {
